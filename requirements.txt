@@ -1,8 +1,7 @@
-streamlit==1.37.1
-opencv-python-headless==4.10.0.84
-mediapipe==0.10.14
-numpy==1.26.4
-pandas==2.2.2
-scikit-image==0.24.0
-scipy==1.14.1
-pillow==10.4.0
+streamlit==1.56.0
+mediapipe==0.10.33
+numpy==2.4.4
+pandas==3.0.2
+scikit-image==0.26.0
+scipy==1.17.1
+pillow==12.2.0
