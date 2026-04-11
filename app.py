@@ -3,7 +3,6 @@ from pathlib import Path
 from typing import Optional, Tuple
 
 import cv2
-import mediapipe as mp
 import numpy as np
 import pandas as pd
 import streamlit as st
